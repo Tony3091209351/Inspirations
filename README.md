@@ -1,2 +1,2 @@
 # Inspirations
-*All things came from the inspirations.*
+**Everything came from the *[inspirations](https://github.com/Tony3091209351/Inspirations)*.**
